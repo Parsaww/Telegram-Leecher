@@ -1,4 +1,4 @@
-# copyright 2023 © Xron Trix | https://github.com/Xrontrix10
+# copyright 2023 YOLO © Xron Trix | https://github.com/Xrontrix10
 
 
 # @title 🖥️ Main Colab Leech Code
